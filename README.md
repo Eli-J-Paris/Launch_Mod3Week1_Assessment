@@ -38,7 +38,7 @@ first, you have the content. Surrounding the content is the padding followed by 
   * Targeting an element in css using an id
   * Targeting an element in css using the html tag
   * Adding margin or padding to an element
-* When finished, add a link to your Replit here: <A link to your repl here>
+* When finished, add a link to your Replit here: <https://replit.com/@ElijahParis/Mod3Week1-Assessment>
 
 ![](Marta-Aziz.png)
 

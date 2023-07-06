@@ -8,7 +8,7 @@
 ## Questions (10 Points)
 
 1. Define HTTP and why it's important.
-
+HTTP or HyperText Transfer Protocol is a set of rules for how the exchange of information across the internet happens
 2. Using [Google Drawings](https://docs.google.com/drawings) Create a diagram of the request and response cycle when a user visits turing.edu. Include clear labels for all components. Put the link to your drawing below. (3 points possible)
 
 3. Describe two parts of every HTTP request.
